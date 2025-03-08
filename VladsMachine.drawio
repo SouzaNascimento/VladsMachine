@@ -83,7 +83,7 @@
             <mxRectangle width="73" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xakBa9MW1w-SpRYxock9-24" value="&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;Best price/Store Link&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="xakBa9MW1w-SpRYxock9-22">
+        <mxCell id="xakBa9MW1w-SpRYxock9-24" value="&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;Recommended GPU/ Best Price/Store Link&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="xakBa9MW1w-SpRYxock9-22">
           <mxGeometry x="73" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
