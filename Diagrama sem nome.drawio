@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="Vsa_8G4ocnd0fxvJfzTe">
-    <mxGraphModel dx="1528" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,24 @@
             <mxPoint x="370" y="1130" as="sourcePoint" />
             <mxPoint x="420" y="1080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.456;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xEoWuhMaAAr9LUPnxhl2-8" target="xEoWuhMaAAr9LUPnxhl2-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1560" as="sourcePoint" />
+            <mxPoint x="390" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-11" value="Conforme vocês estão prestes a deixar a praia e começar&lt;br&gt;sua escalada, vocês ouvem um barulho de respingos&lt;br&gt;e um gemido molhado e gorgolejante atrás de você.&lt;br&gt;Três figuras cambaleiam na beira da água, a cerca de dez&lt;br&gt;metros de distância. Eles estão vestidos como marinheiros, mas sua pele é cinzenta e parecem afogados. A água&lt;br&gt;do mar escorre de suas bocas frouxas, conforme eles se&lt;br&gt;aproximam de vocês." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="256.5" y="1410" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xEoWuhMaAAr9LUPnxhl2-11" target="xEoWuhMaAAr9LUPnxhl2-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1710" as="sourcePoint" />
+            <mxPoint x="370" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-13" value="Combate 1&lt;div&gt;Zumbis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1710" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
