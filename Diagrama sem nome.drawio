@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="Vsa_8G4ocnd0fxvJfzTe">
-    <mxGraphModel dx="1414" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1531" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,17 @@
             <mxPoint x="370" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xEoWuhMaAAr9LUPnxhl2-13" value="Combate 1&lt;div&gt;Zumbis&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-13" value="Combate 1&lt;div&gt;Zumbis Na Praia&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1710" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xEoWuhMaAAr9LUPnxhl2-13" target="xEoWuhMaAAr9LUPnxhl2-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1910" as="sourcePoint" />
+            <mxPoint x="370" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xEoWuhMaAAr9LUPnxhl2-15" value="Sua chegada prontamente atrai a atenção de toda a&lt;br&gt;população do lugar — que consiste principalmente de&lt;br&gt;kobolds. Esses pequenos répteis olham para você com&lt;br&gt;curiosidade, enquanto alguns humanos observam à distância. Todos os moradores do mosteiro vestem roupas&lt;br&gt;simples, e ninguém carrega armas visíveis. Um dos&lt;br&gt;kobolds indaga: &quot;Qual é o seu nome?&quot;&lt;br&gt;Com isso, todos os kobolds começam a bombardeá-lo&lt;br&gt;com perguntas — &quot;De onde você é?&quot;, &quot;O que é isso?&quot;,&lt;br&gt;&quot;Por quê você está aqui?&quot; e mais, que se perdem na&lt;br&gt;balbúrdia." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2020" width="280" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
