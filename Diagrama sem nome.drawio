@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Página-1" id="Vsa_8G4ocnd0fxvJfzTe">
-    <mxGraphModel dx="2576" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4102" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,6 +267,45 @@
         </mxCell>
         <mxCell id="0mkEb88xPxsPrFJLYCqH-54" value="&amp;nbsp;O ponto mais alto do mosteiro é coroado por um &lt;br/&gt;templo ao ar livre que pende sobre a falésia, sustentado &lt;br/&gt;por escoras de pedra abobadadas ancoradas na face &lt;br/&gt;do penhasco. A parede norte do templo é esculpida &lt;br/&gt;diretamente na rocha, enquanto o resto fica aberto aos &lt;br/&gt;ventos do mar. Pilares pesados se erguem nos três lados &lt;br/&gt;abertos, sustentando o telhado de madeira. No centro &lt;br/&gt;do templo fica uma estátua de pedra de um velho de &lt;br/&gt;aparência gentil, com canários empoleirados em suas &lt;br/&gt;mãos, ombros e cabeça. Uma sensação de serenidade &lt;br/&gt;permeia o lugar.&lt;br/&gt; O templo é muito simples, sendo a estátua (representada &lt;br/&gt;pela estrela dentro do círculo no mapa) seu único mobi&lt;br/&gt; liário. A estátua retrata Bahamut, o Dragão de Platina, &lt;br/&gt;disfarçado de mortal, cercado por sete canários que &lt;br/&gt;representam dragões de ouro que o acompanham em &lt;br/&gt;suas viagens. Um personagem que examine a estátua &lt;br/&gt;e obtenha sucesso em um teste de Inteligência CD 10 &lt;br/&gt;(Religião) reconhece que ela retrata Bahamut, e qualquer &lt;br/&gt;habitante do Repouso do Dragão identificará o deus se &lt;br/&gt;questionado.&lt;br/&gt; ♦&lt;br/&gt; Desníveis no pedestal da estátua em cada uma &lt;br/&gt;das quatro direções cardinais contém oferendas para &lt;br/&gt;Bahamut, na forma de incensos. Runara passa cerca &lt;br/&gt;de metade de seu tempo aqui, cuidando e mantendo o &lt;br/&gt;templo, oferecendo orações e incensos, ou em silêncio, &lt;br/&gt;meditando. Outros moradores do mosteiro a ajudam, &lt;br/&gt;na maioria das vezes Varnoth e a kobold Rix.&lt;br/&gt; A sensação de serenidade que permeia o templo é efeito &lt;br/&gt;de uma magia protetora. Uma criatura não maligna que &lt;br/&gt;faça uma salvaguarda dentro do templo pode rolar ld4 &lt;br/&gt;e adicionar o número rolado ao resultado da salvaguarda. &lt;br/&gt;Se um personagem conjurar detectar magia no templo, &lt;br/&gt;a magia revelará uma tênue aura ao redor da estátua. &lt;br/&gt;Runara é a única habitante do Repouso do Dragão que &lt;br/&gt;sabe que este é um efeito duradouro da morte de um &lt;br/&gt;dragão neste local — seu pai, Astalagan.&lt;br/&gt; Sobre Bahamut. Conhecido como o Dragão de Platina, &lt;br/&gt;Bahamut é o patrono e progenitor dos dragões metálicos. &lt;br/&gt;Aventureiros e dragões rezam para Bahamut em defesa &lt;br/&gt;da honra e da justiça, ou quando precisam de coragem &lt;br/&gt;para enfrentar uma grande ameaça. Ele raramente &lt;br/&gt;interfere nos assuntos dos mortais, embora abra exceções &lt;br/&gt;para ajudar a frustrar os planos de Tiamat, a Rainha &lt;br/&gt;Dragão, e dos dragões malignos que a servem." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mkEb88xPxsPrFJLYCqH-53">
           <mxGeometry y="10" width="340" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-55" value="&lt;font style=&quot;font-size: 54px;&quot;&gt;2 GRANDES MISSÕES&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5930" width="630" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-56" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="6130" width="550" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-57" value="&lt;font style=&quot;font-size: 44px;&quot;&gt;Cavernas Algagrande&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mkEb88xPxsPrFJLYCqH-56">
+          <mxGeometry x="40" y="63" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="6130" width="550" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-59" value="&lt;font style=&quot;font-size: 44px;&quot;&gt;Rosa dos Ventos&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="6193" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.315;exitY=1.037;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.93;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-58" target="0mkEb88xPxsPrFJLYCqH-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="6640" as="sourcePoint" />
+            <mxPoint x="-1070" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-61" value="Se os personagens conversam com Runara sobre os &lt;br&gt;zumbis, ela diz que suspeita que um navio naufragado &lt;br&gt;nas rochas ao norte seja a fonte desses monstros, e &lt;br&gt;pede aos personagens que investiguem o local" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="6683" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-63" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="6680" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-66" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="3414" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-64" value="Tarak está ansioso para restabelecer o contato com &lt;br/&gt;os miconídeos das cavernas marinhas. Ele pede aos &lt;br/&gt;personagens que visitem as cavernas, descubram o &lt;br/&gt;que há de errado com os miconídeos e tragam alguns &lt;br/&gt;cogumelos-coração. Ele os avisa sobre o polvo fúngico &lt;br/&gt;que os miconídeos criaram como guardião, e diz que &lt;br/&gt;provavelmente terão que lutar contra a criatura para &lt;br/&gt;obter acesso às cavernas. Ele também dá a eles um saco &lt;br/&gt;fedorento com restos de comida, que eles podem dar aos &lt;br/&gt;miconídeos como um gesto de amizade. Por fim, ele lhes &lt;br/&gt;dá duas poções de cura " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mkEb88xPxsPrFJLYCqH-66">
+          <mxGeometry x="-5" y="10" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-67" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-66" target="0mkEb88xPxsPrFJLYCqH-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="3490" as="sourcePoint" />
+            <mxPoint x="30" y="3440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
