@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Página-1" id="Vsa_8G4ocnd0fxvJfzTe">
-    <mxGraphModel dx="4102" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3694" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,6 +305,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="3490" as="sourcePoint" />
             <mxPoint x="30" y="3440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47.5;endSize=11.149999999999999;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-55" target="0mkEb88xPxsPrFJLYCqH-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="6280" as="sourcePoint" />
+            <mxPoint x="930" y="6230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.997;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-55" target="0mkEb88xPxsPrFJLYCqH-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="6820" as="sourcePoint" />
+            <mxPoint x="210" y="6770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-71" value="Tarak está ansioso para restabelecer o contato com &lt;br/&gt;os miconídeos das cavernas marinhas. Ele pede aos &lt;br/&gt;personagens que visitem as cavernas, descubram o &lt;br/&gt;que há de errado com os miconídeos e tragam alguns &lt;br/&gt;cogumelos-coração. Ele os avisa sobre o polvo fúngico &lt;br/&gt;que os miconídeos criaram como guardião, e diz que &lt;br/&gt;provavelmente terão que lutar contra a criatura para &lt;br/&gt;obter acesso às cavernas. Ele também dá a eles um saco &lt;br/&gt;fedorento com restos de comida, que eles podem dar aos &lt;br/&gt;miconídeos como um gesto de amizade. Por fim, ele lhes &lt;br/&gt;dá duas poções de cura" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="6500" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-72" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="6470" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.393;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-56" target="0mkEb88xPxsPrFJLYCqH-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="6420" as="sourcePoint" />
+            <mxPoint x="1330" y="6370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-75" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="6670" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-74" value="A maior&lt;br&gt; ameaã é um talisma amaldicoado no porao do navio,&lt;br&gt; imbui&#39;do magicamente por orag6es feitas a urn lorde.&lt;div&gt;dem6nio, proferidas no desespero por urn marinheiro&lt;br&gt; que morreu ha muito tempo. Esta maldicao 6 responsavel&lt;br&gt; pelo retorno dos marinheiros afogados como zumbis.&lt;br&gt; A maioria dos marinheiros que estavam a bordo do navio&lt;br&gt; quando ele naufragou se foram ha tempos, mas alguns&lt;br&gt; zumbis ficaram presos nos destroeos por anos.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0mkEb88xPxsPrFJLYCqH-75">
+          <mxGeometry x="-10" y="10" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0mkEb88xPxsPrFJLYCqH-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.675;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.362;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0mkEb88xPxsPrFJLYCqH-74" target="0mkEb88xPxsPrFJLYCqH-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="6880" as="sourcePoint" />
+            <mxPoint x="700" y="6830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
